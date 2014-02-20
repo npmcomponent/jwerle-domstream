@@ -1,0 +1,13 @@
+{
+  "name": "jwerle-domstream",
+  "description": "Turn DOM element events into streams",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {
+    "component-emitter": "git://github.com/npmcomponent/component-emitter.git",
+    "jb55-domready": "git://github.com/npmcomponent/jb55-domready.git",
+    "component-events": "git://github.com/npmcomponent/component-events.git",
+    "component-assert": "git://github.com/npmcomponent/component-assert.git"
+  },
+  "license": "MIT"
+}

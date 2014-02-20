@@ -3,9 +3,9 @@
  * module dependencies
  */
 
-var Emitter = require('emitter')
-	, ready = require('domready')
-	, Events = require('events')
+var Emitter = require('component-emitter')
+	, ready = require('jb55-domready')
+	, Events = require('component-events')
 
 
 var isArray = Array.isArray
